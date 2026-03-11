@@ -1,11 +1,10 @@
 """
 main.py — RPI Sensor Logger to Firebase
-Sensors: DS18B20 (Temperature), MQ2 (Gas Detection)
+Overwrites a single node every 2 seconds. No timestamps.
 """
 
 import time
 import logging
-from datetime import datetime, timezone
 from ds18b20_sensor import DS18B20Sensor
 from mq2_sensor import MQ2Sensor
 from firebase_client import FirebaseClient
@@ -32,36 +31,29 @@ def main():
         database_url=Config.FIREBASE_DATABASE_URL
     )
 
-    log.info(f"📡 Logging every {Config.LOG_INTERVAL_SECONDS}s → {Config.FIREBASE_DATABASE_URL}")
+    log.info(f"📡 Updating Firebase every {Config.LOG_INTERVAL_SECONDS}s → {Config.FIREBASE_DATABASE_URL}")
     log.info("Press Ctrl+C to stop.\n")
 
     while True:
         try:
-            timestamp = datetime.now(timezone.utc).isoformat()
-
-            temp_c, temp_f       = ds18b20.read()
-            gas_detected, gas_status, mq2_do_raw = mq2.read()
+            temp_c, temp_f               = ds18b20.read()
+            gas_detected, gas_status, _  = mq2.read()
 
             if temp_c is None:
-                log.warning("⚠️  DS18B20 read failed — check wiring. Retrying next cycle.")
+                log.warning("⚠️  DS18B20 read failed — retrying next cycle.")
                 time.sleep(Config.LOG_INTERVAL_SECONDS)
                 continue
 
             payload = {
-                "timestamp":     timestamp,
                 "temperature_c": temp_c,
                 "temperature_f": temp_f,
                 "gas_detected":  gas_detected,
                 "gas_status":    gas_status,
-                "mq2_do_raw":    mq2_do_raw,
-                "device_id":     Config.DEVICE_ID,
             }
 
-            db.push(Config.FIREBASE_NODE, payload)
+            db.set(Config.FIREBASE_NODE, payload)
 
-            log.info(
-                f"✅ Temp: {temp_c}°C ({temp_f}°F)  |  Gas: {gas_status}"
-            )
+            log.info(f"✅ Temp: {temp_c}°C ({temp_f}°F)  |  Gas: {gas_status}")
 
         except KeyboardInterrupt:
             log.info("\n🛑 Stopped by user.")

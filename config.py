@@ -13,7 +13,7 @@ class Config:
     # Firebase
     FIREBASE_CREDENTIALS_PATH = "firebase_credentials.json"
     FIREBASE_DATABASE_URL     = "https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/"
-    FIREBASE_NODE             = "sensor_logs"
+    FIREBASE_NODE             = "sensor_data"
 
-    # Logging interval in seconds
+    # Overwrite interval in seconds
     LOG_INTERVAL_SECONDS = 2

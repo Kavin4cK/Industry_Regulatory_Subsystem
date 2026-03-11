@@ -1,5 +1,6 @@
 """
 firebase_client.py — Firebase Realtime Database wrapper.
+Uses set() to overwrite a single node (no push, no history).
 """
 
 import logging
@@ -31,16 +32,22 @@ class FirebaseClient:
         except Exception as e:
             log.error(f"Firebase init failed: {e}")
 
-    def push(self, node: str, data: dict):
-        """Push a new timestamped entry under the given node."""
+    def set(self, node: str, data: dict):
+        """Overwrite the node entirely with new data every cycle."""
         if not self._available:
             log.info(f"[LOCAL] {data}")
-            return None
+            return
         try:
-            ref = firebase_db.reference(node)
-            new_ref = ref.push(data)
-            log.debug(f"Firebase push OK → /{node}/{new_ref.key}")
-            return new_ref.key
+            firebase_db.reference(node).set(data)
+        except Exception as e:
+            log.error(f"Firebase set failed: {e}")
+
+    def push(self, node: str, data: dict):
+        """Keep push available if needed later."""
+        if not self._available:
+            log.info(f"[LOCAL] {data}")
+            return
+        try:
+            firebase_db.reference(node).push(data)
         except Exception as e:
             log.error(f"Firebase push failed: {e}")
-            return None
