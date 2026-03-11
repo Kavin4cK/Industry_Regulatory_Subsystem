@@ -8,9 +8,9 @@
 import time
 import logging
 from datetime import datetime
-from sensors.dht11_sensor import DHT11Sensor
-from sensors.mq2_sensor import MQ2Sensor
-from firebase.firebase_client import FirebaseClient
+from dht11_sensor import DHT11Sensor
+from mq2_sensor import MQ2Sensor
+from firebase_client import FirebaseClient
 from config import Config
 
 # ── Logging Setup ──────────────────────────────────
