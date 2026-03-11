@@ -90,3 +90,250 @@
 2026-03-11 23:44:45,918 [WARNING] ⚠️  DHT11 read failed — skipping this cycle.
 2026-03-11 23:44:50,070 [INFO] 
 🛑 Stopped by user.
+2026-03-11 23:59:00,798 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-11 23:59:00,799 [INFO] DHT11 initialised on BCM GPIO4.
+2026-03-11 23:59:00,799 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-11 23:59:01,114 [INFO] Firebase Realtime Database connected.
+2026-03-11 23:59:01,114 [INFO] 📡 Logging every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-11 23:59:01,114 [INFO] Press Ctrl+C to stop.
+
+2026-03-11 23:59:12,959 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-11 23:59:12,960 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-11 23:59:26,805 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-11 23:59:26,805 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-11 23:59:40,650 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-11 23:59:40,650 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-11 23:59:42,950 [INFO] 
+🛑 Stopped by user.
+2026-03-12 00:03:44,380 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 00:03:44,380 [INFO] DHT11 initialised on BCM GPIO4.
+2026-03-12 00:03:44,381 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 00:03:44,693 [INFO] Firebase Realtime Database connected.
+2026-03-12 00:03:44,693 [INFO] 📡 Logging every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 00:03:44,693 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 00:03:56,538 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:03:56,539 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:04:10,384 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:04:10,384 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:04:24,229 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:04:24,230 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:04:38,074 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:04:38,075 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:04:51,920 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:04:51,920 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:05:05,765 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:05:05,765 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:05:19,610 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:05:19,611 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:05:33,455 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:05:33,455 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:05:47,300 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:05:47,301 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:06:01,145 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:06:01,145 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:06:14,990 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:06:14,991 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:06:28,835 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:06:28,836 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:06:42,681 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:06:42,682 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:06:56,526 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:06:56,527 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:07:10,373 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:07:10,373 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:07:24,218 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:07:24,218 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:07:38,063 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:07:38,063 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:07:51,908 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:07:51,909 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:08:05,753 [WARNING] DHT11 all retries failed — check wiring.
+2026-03-12 00:08:05,754 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:08:10,260 [INFO] 
+🛑 Stopped by user.
+2026-03-12 00:09:23,600 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 00:09:23,600 [INFO] DHT11 initialised on BCM GPIO4 via lgpio.
+2026-03-12 00:09:23,603 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 00:09:23,916 [INFO] Firebase Realtime Database connected.
+2026-03-12 00:09:23,916 [INFO] 📡 Logging every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 00:09:23,917 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 00:09:34,770 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:09:34,771 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:09:47,624 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:09:47,625 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:10:00,479 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:10:00,480 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:10:13,333 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:10:13,334 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:10:26,188 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:10:26,188 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:10:39,042 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:10:39,042 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:10:51,896 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:10:51,897 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:11:04,750 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:11:04,751 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:11:17,605 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:11:17,606 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:11:30,459 [WARNING] DHT11 all retries failed — check wiring (VCC=Pin1, DATA=Pin7, GND=Pin6).
+2026-03-12 00:11:30,461 [WARNING] ⚠️  DHT11 read failed — check wiring. Retrying next cycle.
+2026-03-12 00:11:31,862 [INFO] 
+🛑 Stopped by user.
+2026-03-12 00:26:59,017 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 00:26:59,022 [ERROR] DS18B20 not found in /sys/bus/w1/devices/. Make sure 1-Wire is enabled:
+  Add 'dtoverlay=w1-gpio,gpiopin=4' to /boot/firmware/config.txt
+  Then reboot.
+2026-03-12 00:26:59,025 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 00:26:59,337 [INFO] Firebase Realtime Database connected.
+2026-03-12 00:26:59,337 [INFO] 📡 Logging every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 00:26:59,337 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 00:26:59,526 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:26:59,526 [INFO] ✅ Temp: 29.74°C (85.53°F)  |  Gas: Clear
+2026-03-12 00:27:01,676 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:01,677 [INFO] ✅ Temp: 26.2°C (79.16°F)  |  Gas: Clear
+2026-03-12 00:27:03,788 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:03,788 [INFO] ✅ Temp: 30.83°C (87.49°F)  |  Gas: Clear
+2026-03-12 00:27:05,898 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:05,898 [INFO] ✅ Temp: 29.86°C (85.75°F)  |  Gas: Clear
+2026-03-12 00:27:08,020 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:08,021 [INFO] ✅ Temp: 29.01°C (84.22°F)  |  Gas: Clear
+2026-03-12 00:27:10,130 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:10,131 [INFO] ✅ Temp: 30.73°C (87.31°F)  |  Gas: Clear
+2026-03-12 00:27:12,260 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:12,260 [INFO] ✅ Temp: 29.87°C (85.77°F)  |  Gas: Clear
+2026-03-12 00:27:14,376 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:14,377 [INFO] ✅ Temp: 29.33°C (84.79°F)  |  Gas: Clear
+2026-03-12 00:27:16,484 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:16,485 [INFO] ✅ Temp: 31.19°C (88.14°F)  |  Gas: Clear
+2026-03-12 00:27:18,603 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:18,603 [INFO] ✅ Temp: 25.17°C (77.31°F)  |  Gas: Clear
+2026-03-12 00:27:20,732 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:20,733 [INFO] ✅ Temp: 28.22°C (82.8°F)  |  Gas: Clear
+2026-03-12 00:27:22,845 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:22,845 [INFO] ✅ Temp: 24.04°C (75.27°F)  |  Gas: Clear
+2026-03-12 00:27:24,955 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:24,956 [INFO] ✅ Temp: 25.57°C (78.03°F)  |  Gas: Clear
+2026-03-12 00:27:27,081 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:27,082 [INFO] ✅ Temp: 28.84°C (83.91°F)  |  Gas: Clear
+2026-03-12 00:27:29,209 [ERROR] Firebase push failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:27:29,209 [INFO] ✅ Temp: 25.67°C (78.21°F)  |  Gas: Clear
+2026-03-12 00:54:22,693 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 00:54:22,694 [ERROR] DS18B20 not found in /sys/bus/w1/devices/. Make sure 1-Wire is enabled:
+  Add 'dtoverlay=w1-gpio,gpiopin=4' to /boot/firmware/config.txt
+  Then reboot.
+2026-03-12 00:54:22,697 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 00:54:23,008 [INFO] Firebase Realtime Database connected.
+2026-03-12 00:54:23,009 [INFO] 📡 Updating Firebase every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 00:54:23,009 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 00:54:23,211 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:23,212 [INFO] ✅ Temp: 24.49°C (76.08°F)  |  Gas: Clear
+2026-03-12 00:54:25,351 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:25,351 [INFO] ✅ Temp: 26.36°C (79.45°F)  |  Gas: Clear
+2026-03-12 00:54:27,479 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:27,480 [INFO] ✅ Temp: 25.3°C (77.54°F)  |  Gas: Clear
+2026-03-12 00:54:29,593 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:29,593 [INFO] ✅ Temp: 27.63°C (81.73°F)  |  Gas: Clear
+2026-03-12 00:54:31,706 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:31,707 [INFO] ✅ Temp: 28.12°C (82.62°F)  |  Gas: Clear
+2026-03-12 00:54:33,821 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:33,822 [INFO] ✅ Temp: 30.44°C (86.79°F)  |  Gas: Clear
+2026-03-12 00:54:35,936 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:35,936 [INFO] ✅ Temp: 31.19°C (88.14°F)  |  Gas: Clear
+2026-03-12 00:54:38,046 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:54:38,047 [INFO] ✅ Temp: 28.08°C (82.54°F)  |  Gas: Clear
+2026-03-12 00:32:21,671 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 00:32:21,674 [ERROR] DS18B20 not found in /sys/bus/w1/devices/. Make sure 1-Wire is enabled:
+  Add 'dtoverlay=w1-gpio,gpiopin=4' to /boot/firmware/config.txt
+  Then reboot.
+2026-03-12 00:32:21,677 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 00:32:21,989 [INFO] Firebase Realtime Database connected.
+2026-03-12 00:32:21,989 [INFO] 📡 Updating Firebase every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 00:32:21,989 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 00:32:22,212 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:22,213 [INFO] ✅ Temp: 24.11°C (75.4°F)  |  Gas: Clear
+2026-03-12 00:32:24,333 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:24,334 [INFO] ✅ Temp: 28.71°C (83.68°F)  |  Gas: Clear
+2026-03-12 00:32:26,456 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:26,456 [INFO] ✅ Temp: 24.02°C (75.24°F)  |  Gas: Clear
+2026-03-12 00:32:28,577 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:28,577 [INFO] ✅ Temp: 27.98°C (82.36°F)  |  Gas: Clear
+2026-03-12 00:32:32,529 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:32,529 [INFO] ✅ Temp: 30.08°C (86.14°F)  |  Gas: Clear
+2026-03-12 00:32:34,657 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:34,657 [INFO] ✅ Temp: 25.67°C (78.21°F)  |  Gas: Clear
+2026-03-12 00:32:36,771 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:36,772 [INFO] ✅ Temp: 31.32°C (88.38°F)  |  Gas: Clear
+2026-03-12 00:32:38,883 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:38,883 [INFO] ✅ Temp: 28.93°C (84.07°F)  |  Gas: Clear
+2026-03-12 00:32:41,010 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:41,015 [INFO] ✅ Temp: 31.7°C (89.06°F)  |  Gas: Clear
+2026-03-12 00:32:43,119 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:32:43,119 [INFO] ✅ Temp: 27.22°C (81.0°F)  |  Gas: Clear
+2026-03-12 06:35:14,326 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 06:35:14,327 [ERROR] DS18B20 not found in /sys/bus/w1/devices/. Make sure 1-Wire is enabled:
+  Add 'dtoverlay=w1-gpio,gpiopin=4' to /boot/firmware/config.txt
+  Then reboot.
+2026-03-12 06:35:14,329 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 06:35:14,641 [INFO] Firebase Realtime Database connected.
+2026-03-12 06:35:14,642 [INFO] 📡 Updating Firebase every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 06:35:14,642 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 06:35:14,848 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:14,848 [INFO] ✅ Temp: 29.82°C (85.68°F)  |  Gas: Clear
+2026-03-12 06:35:16,966 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:16,966 [INFO] ✅ Temp: 31.73°C (89.11°F)  |  Gas: Clear
+2026-03-12 06:35:19,081 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:19,081 [INFO] ✅ Temp: 25.37°C (77.67°F)  |  Gas: Clear
+2026-03-12 06:35:21,208 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:21,208 [INFO] ✅ Temp: 26.89°C (80.4°F)  |  Gas: Clear
+2026-03-12 06:35:23,340 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:23,341 [INFO] ✅ Temp: 30.4°C (86.72°F)  |  Gas: Clear
+2026-03-12 06:35:25,467 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:25,468 [INFO] ✅ Temp: 31.13°C (88.03°F)  |  Gas: Clear
+2026-03-12 06:35:27,587 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:27,588 [INFO] ✅ Temp: 31.69°C (89.04°F)  |  Gas: Clear
+2026-03-12 06:35:29,693 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values in the JWT claim.'})
+2026-03-12 06:35:29,693 [INFO] ✅ Temp: 30.69°C (87.24°F)  |  Gas: Clear
+2026-03-12 06:35:31,731 [INFO] 
+🛑 Stopped by user.
+2026-03-12 00:38:37,722 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 00:38:37,723 [ERROR] DS18B20 not found in /sys/bus/w1/devices/. Make sure 1-Wire is enabled:
+  Add 'dtoverlay=w1-gpio,gpiopin=4' to /boot/firmware/config.txt
+  Then reboot.
+2026-03-12 00:38:37,724 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 00:38:38,037 [INFO] Firebase Realtime Database connected.
+2026-03-12 00:38:38,037 [INFO] 📡 Updating Firebase every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 00:38:38,037 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 00:38:38,207 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:38:38,208 [INFO] ✅ Temp: 31.92°C (89.46°F)  |  Gas: Clear
+2026-03-12 00:38:40,334 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:38:40,334 [INFO] ✅ Temp: 25.64°C (78.15°F)  |  Gas: Clear
+2026-03-12 00:38:42,436 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:38:42,437 [INFO] ✅ Temp: 25.15°C (77.27°F)  |  Gas: Clear
+2026-03-12 00:38:44,538 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:38:44,538 [INFO] ✅ Temp: 30.31°C (86.56°F)  |  Gas: Clear
+2026-03-12 00:38:46,657 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:38:46,658 [INFO] ✅ Temp: 25.36°C (77.65°F)  |  Gas: Clear
+2026-03-12 00:44:11,067 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-12 00:44:11,068 [ERROR] DS18B20 not found in /sys/bus/w1/devices/. Make sure 1-Wire is enabled:
+  Add 'dtoverlay=w1-gpio,gpiopin=4' to /boot/firmware/config.txt
+  Then reboot.
+2026-03-12 00:44:11,070 [INFO] MQ2 (Digital) initialised on BCM GPIO17.
+2026-03-12 00:44:11,382 [INFO] Firebase Realtime Database connected.
+2026-03-12 00:44:11,383 [INFO] 📡 Updating Firebase every 2s → https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-12 00:44:11,383 [INFO] Press Ctrl+C to stop.
+
+2026-03-12 00:44:11,553 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:44:11,554 [INFO] ✅ Temp: 24.68°C (76.42°F)  |  Gas: Clear
+2026-03-12 00:44:13,674 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:44:13,674 [INFO] ✅ Temp: 27.71°C (81.88°F)  |  Gas: Clear
+2026-03-12 00:44:15,774 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:44:15,777 [INFO] ✅ Temp: 26.86°C (80.35°F)  |  Gas: Clear
+2026-03-12 00:44:17,886 [ERROR] Firebase set failed: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2026-03-12 00:44:17,886 [INFO] ✅ Temp: 25.5°C (77.9°F)  |  Gas: Clear
