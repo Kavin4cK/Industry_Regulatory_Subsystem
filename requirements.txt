@@ -1,0 +1,7 @@
+# requirements.txt — Install on Raspberry Pi with:
+#   pip install -r requirements.txt --break-system-packages
+
+adafruit-circuitpython-dht>=3.7.0    # DHT11/DHT22 library
+firebase-admin>=6.5.0                # Firebase Realtime Database
+spidev>=3.6                          # MCP3008 SPI ADC (for MQ2)
+RPi.GPIO>=0.7.1                      # GPIO (dependency for some libs)
