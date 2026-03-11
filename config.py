@@ -28,4 +28,4 @@ class Config:
     FIREBASE_NODE             = "sensor_logs"                  # Root node in Realtime DB
 
     # ── Logging ───────────────────────────────────────
-    LOG_INTERVAL_SECONDS = 10              # How often to read & upload (seconds)
+    LOG_INTERVAL_SECONDS = 2              # How often to read & upload (seconds)
