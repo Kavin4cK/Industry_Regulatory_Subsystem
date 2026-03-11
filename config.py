@@ -7,8 +7,8 @@ class Config:
     DEVICE_ID = "rpi-4b-unit-01"
 
     # GPIO Pins (BCM numbering)
-    DHT11_PIN  = 4      # DHT11 DATA → RPi Pin 7  (BCM GPIO4)
-    MQ2_DO_PIN = 17     # MQ2 DO     → RPi Pin 11 (BCM GPIO17)
+    DS18B20_PIN = 4     # DS18B20 DATA → RPi Pin 7  (BCM GPIO4)
+    MQ2_DO_PIN  = 17    # MQ2 DO       → RPi Pin 11 (BCM GPIO17)
 
     # Firebase
     FIREBASE_CREDENTIALS_PATH = "firebase_credentials.json"
