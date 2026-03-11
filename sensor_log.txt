@@ -1,0 +1,10 @@
+2026-03-11 20:41:50,944 [INFO] 🚀 Starting RPI Sensor Logger...
+2026-03-11 20:41:50,945 [INFO] DHT11 initialised on BCM GPIO4.
+2026-03-11 20:41:50,945 [ERROR] SPI init failed: [Errno 2] No such file or directory
+2026-03-11 20:41:50,945 [ERROR] Firebase init failed: [Errno 2] No such file or directory: 'firebase_credentials.json'
+2026-03-11 20:41:50,945 [INFO] 📡 Logging every 10s → Firebase: https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/
+2026-03-11 20:41:50,945 [INFO] Press Ctrl+C to stop.
+
+2026-03-11 20:41:58,052 [WARNING] ⚠️  DHT11 read failed — skipping this cycle.
+2026-03-11 20:42:14,084 [INFO] 
+🛑 Stopped by user.
