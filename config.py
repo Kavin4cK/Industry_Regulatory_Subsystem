@@ -22,9 +22,9 @@ class Config:
     MQ2_WARNING_PPM  = 300
     MQ2_DANGER_PPM   = 1000
 
-    # ── Firebase ─────────────────────────────────────
+    # ── Firebase ───────────────────────────────────
     FIREBASE_CREDENTIALS_PATH = "firebase_credentials.json"   # Service account JSON key
-    FIREBASE_DATABASE_URL     = "https://YOUR-PROJECT.firebaseio.com"
+    FIREBASE_DATABASE_URL     = "https://industry-regulatory-subsystem-default-rtdb.firebaseio.com/"
     FIREBASE_NODE             = "sensor_logs"                  # Root node in Realtime DB
 
     # ── Logging ───────────────────────────────────────
